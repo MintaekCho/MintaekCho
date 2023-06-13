@@ -4,7 +4,7 @@
 
 
 <p align='center'>
- <b>🌱Hello! I'm backend Developer🌱</b>
+ <b>🌱Hello! I'm Front-end Developer🌱</b>
  <br>
 <img src="https://blog.kakaocdn.net/dn/Vc7dm/btrYjDlY9KT/GITlNuK465KIPH3GgB1KA0/img.png">
 </p>
