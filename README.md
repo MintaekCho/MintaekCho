@@ -12,9 +12,28 @@
 
 ## ⚡ Technologies & Tools
 <div align = center>
+ <h3>Front-end</h3> 
+</div>
+<div align = center>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/><br />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+<img src="https://img.shields.io/badge/tailwind-1572B6?style=for-the-badge&logo=tailwind&logoColor=white"/>
+</div>
+
+<br />
+
+<div align = center>
+ <h3>Back-end</h3> 
+</div>
+<div align = center>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+ <img src="https://img.shields.io/badge/JPA-FCC624?style=for-the-badge&logo=JPA&logoColor=black">
 <br>
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -25,6 +44,13 @@
 
 ## :memo: Blog
 https://alsxor5.tistory.com/
+
+<br />
+
+## :memo: Portfolio
+<a href="portfolio-drab-tau-35.vercel.app">개인 포트폴리오 사이트</a>
+
+<br />
 
 ## :link: Links
 
