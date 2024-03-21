@@ -48,7 +48,7 @@ https://alsxor5.tistory.com/
 <br />
 
 ## :memo: Portfolio
-<a href="https://portfolio-d4sdjhefn-mintaekcho.vercel.app/" target='_blank">개인 포트폴리오 사이트</a>
+<a href="https://portfolio-d4sdjhefn-mintaekcho.vercel.app" target="_blank">개인 포트폴리오 사이트</a>
 
 <br />
 
