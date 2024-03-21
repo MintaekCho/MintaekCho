@@ -48,15 +48,15 @@ https://alsxor5.tistory.com/
 <br />
 
 ## :memo: Portfolio
-<a href="portfolio-drab-tau-35.vercel.app">개인 포트폴리오 사이트</a>
+<a href="https://portfolio-d4sdjhefn-mintaekcho.vercel.app/" target='_blank">개인 포트폴리오 사이트</a>
 
 <br />
 
 ## :link: Links
 
 <p align="center">
-<a href="https://www.instagram.com/min_taek0"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
-<a href="mailto:mintaek5555@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+<a href="https://www.instagram.com/min_taek0"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" target='_blank"/></a>
+<a href="mailto:mintaek5555@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" target='_blank"/></a>
 </p>
 
 ## &#x1f4c8; GitHub Stats
