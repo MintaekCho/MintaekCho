@@ -1,137 +1,85 @@
-  <div align="center">
 
-  <h1>조민택 · Jo Mintaek</h1>
-  <p><b>Frontend Developer</b> · 3년 6개월</p>
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Welcome
+<img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /></h2>
 
-  <p>
-    React/Next.js를 중심으로 SaaS 서비스를 기획부터 배포·운영까지
-  경험했습니다.<br/>
-    AI 개발 도구를 실무에 적극 활용하여 빠르게 제품을 만들어냅니다.
-  </p>
 
-  <p>
-    <a href="mailto:mintaek5555@gmail.com">
-      <img src="https://img.shields.io/badge/mintaek5555@gmail.com-EA4335?style=fl
-  at-square&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-    &nbsp;
-    <a href="https://portfolio-drab-tau-35.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&lo
-  go=vercel&logoColor=white" alt="Portfolio"/>
-    </a>
-  </p>
+<p align='center'>
+ <b>🌱Hello! I'm Front-end Developer🌱</b>
+ <br>
+<img src="https://blog.kakaocdn.net/dn/Vc7dm/btrYjDlY9KT/GITlNuK465KIPH3GgB1KA0/img.png">
+</p>
 
-  </div>
 
-  ---
+## ⚡ Technologies & Tools
+<div align = center>
+ <h3>Front-end</h3> 
+</div>
+<div align = center>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/><br />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+<img src="https://img.shields.io/badge/tailwind-1572B6?style=for-the-badge&logo=tailwind&logoColor=white"/>
+</div>
 
-  ## 🛠 Tech Stack
+<br />
 
-  <table>
-    <tr>
-      <td valign="top" width="50%">
+<div align = center>
+ <h3>Back-end</h3> 
+</div>
+<div align = center>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+ <img src="https://img.shields.io/badge/JPA-FCC624?style=for-the-badge&logo=JPA&logoColor=black">
+<br>
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
 
-  **Frontend**
+## :memo: Blog
+https://alsxor5.tistory.com/
 
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&
-  logoColor=black)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=ne
-  xtdotjs&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&l
-  ogo=typescript&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-squa
-  re&logo=tailwindcss&logoColor=white)
-  ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=
-  electron&logoColor=white)
+<br />
 
-  **Backend & DB**
+## :memo: Portfolio
+<a href="https://portfolio-drab-tau-35.vercel.app" target="_blank">개인 포트폴리오 사이트</a>
 
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=no
-  dedotjs&logoColor=white)
-  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=
-  supabase&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&l
-  ogo=postgresql&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqli
-  te&logoColor=white)
+<br />
 
-      </td>
-      <td valign="top" width="50%">
+## :link: Links
 
-  **AI & Tools**
+<p align="center">
+<a href="https://www.instagram.com/min_taek0"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" target='_blank"/></a>
+<a href="mailto:mintaek5555@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" target='_blank"/></a>
+</p>
 
-  ![Claude](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logo=
-  anthropic&logoColor=white)
-  ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=curs
-  or&logoColor=white)
+## &#x1f4c8; GitHub Stats
 
-  **DevOps**
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=verc
-  el&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-
-  square&logo=githubactions&logoColor=white)
+<a href="https://github.com/MintaekCho/MintaekCho">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MintaekCho&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="MintaekCho's GitHub Stats" />
+</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintaekCho&layout=compact&count_private=true&theme=gruvbox" />
 
-      </td>
-    </tr>
-  </table>
+  
+<!--
+**MintaekCho/MintaekCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-  ---
+Here are some ideas to get you started:
 
-  ## 💼 Career
-
-  | 기간 | 회사 | 역할 | 비고 |
-  |:---|:---|:---|:---|
-  | 2024.08 ~ 현재 | **키키아이** | Frontend Developer | 재직 중 |
-  | 2023.09 ~ 2024.07 | **가온플랫폼** | Frontend Developer | |
-  | 2021.06 ~ 2022.04 | **한화정밀기계** | 기술팀 · 사원 | 개발직 전환 퇴사 |
-
-  ---
-
-  ## 🚀 Featured Projects
-
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-
-  ### [IEUM (이음)](https://portfolio-drab-tau-35.vercel.app/projects/ieum)
-
-  **AI 기반 견적서 SaaS · 운영 중**
-
-  계약직·프리랜서를 위한 견적서 작성 서비스. Claude API를 활용한 견적 자동 생성,
-  고객의 역제안 기능, 전자서명 지원.
-
-  `Next.js 16` `TypeScript` `Supabase` `Claude API` `Polar`
-
-      </td>
-      <td width="50%" valign="top">
-
-  ### [Task-Flow](https://portfolio-drab-tau-35.vercel.app/projects/task-flow)
-
-  **사내 업무 자동화 데스크톱 앱**
-
-  칸반 보드, 로드맵(간트차트), 릴리즈 대시보드, Yjs 기반 실시간 협업 노트, 실시간
-  알림 기능을 갖춘 Electron 앱.
-
-  `Electron` `React` `TypeScript` `Yjs` `SQLite`
-
-      </td>
-    </tr>
-  </table>
-
-  ---
-
-  ## 📊 GitHub Stats
-
-  <div align="center">
-
-  <img height="160"
-  src="https://github-readme-stats.vercel.app/api?username=MintaekCho&show_icons=t
-  rue&theme=default&hide_border=true&count_private=true&include_all_commits=true"
-  alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?use
-  rname=MintaekCho&layout=compact&theme=default&hide_border=true&langs_count=6"
-  alt="Top Languages"/>
-
-  </div>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
